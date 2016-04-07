@@ -1,2 +1,2 @@
 # Bayesian-Classifier
-Consists of a classifier for pattern recognition
+Consists of a classifier for character recognition
